@@ -1,0 +1,12 @@
+C:\Users\Arrayan\source\repos\XifreBackend\Contracts\bin\Debug\netcoreapp3.1\Contracts.deps.json
+C:\Users\Arrayan\source\repos\XifreBackend\Contracts\bin\Debug\netcoreapp3.1\Contracts.dll
+C:\Users\Arrayan\source\repos\XifreBackend\Contracts\bin\Debug\netcoreapp3.1\Contracts.pdb
+C:\Users\Arrayan\source\repos\XifreBackend\Contracts\bin\Debug\netcoreapp3.1\DomainModels.dll
+C:\Users\Arrayan\source\repos\XifreBackend\Contracts\bin\Debug\netcoreapp3.1\DomainModels.pdb
+C:\Users\Arrayan\source\repos\XifreBackend\Contracts\obj\Debug\netcoreapp3.1\Contracts.csprojAssemblyReference.cache
+C:\Users\Arrayan\source\repos\XifreBackend\Contracts\obj\Debug\netcoreapp3.1\Contracts.AssemblyInfoInputs.cache
+C:\Users\Arrayan\source\repos\XifreBackend\Contracts\obj\Debug\netcoreapp3.1\Contracts.AssemblyInfo.cs
+C:\Users\Arrayan\source\repos\XifreBackend\Contracts\obj\Debug\netcoreapp3.1\Contracts.csproj.CoreCompileInputs.cache
+C:\Users\Arrayan\source\repos\XifreBackend\Contracts\obj\Debug\netcoreapp3.1\Contracts.csproj.CopyComplete
+C:\Users\Arrayan\source\repos\XifreBackend\Contracts\obj\Debug\netcoreapp3.1\Contracts.dll
+C:\Users\Arrayan\source\repos\XifreBackend\Contracts\obj\Debug\netcoreapp3.1\Contracts.pdb

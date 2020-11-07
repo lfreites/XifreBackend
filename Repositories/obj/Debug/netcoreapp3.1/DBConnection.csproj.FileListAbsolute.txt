@@ -1,0 +1,12 @@
+C:\Users\Arrayan\source\repos\XifreBackend\Repositories\bin\Debug\netcoreapp3.1\DBConnection.deps.json
+C:\Users\Arrayan\source\repos\XifreBackend\Repositories\bin\Debug\netcoreapp3.1\DBConnection.dll
+C:\Users\Arrayan\source\repos\XifreBackend\Repositories\bin\Debug\netcoreapp3.1\DBConnection.pdb
+C:\Users\Arrayan\source\repos\XifreBackend\Repositories\bin\Debug\netcoreapp3.1\DomainModels.dll
+C:\Users\Arrayan\source\repos\XifreBackend\Repositories\bin\Debug\netcoreapp3.1\DomainModels.pdb
+C:\Users\Arrayan\source\repos\XifreBackend\Repositories\obj\Debug\netcoreapp3.1\DBConnection.csprojAssemblyReference.cache
+C:\Users\Arrayan\source\repos\XifreBackend\Repositories\obj\Debug\netcoreapp3.1\DBConnection.AssemblyInfoInputs.cache
+C:\Users\Arrayan\source\repos\XifreBackend\Repositories\obj\Debug\netcoreapp3.1\DBConnection.AssemblyInfo.cs
+C:\Users\Arrayan\source\repos\XifreBackend\Repositories\obj\Debug\netcoreapp3.1\DBConnection.csproj.CoreCompileInputs.cache
+C:\Users\Arrayan\source\repos\XifreBackend\Repositories\obj\Debug\netcoreapp3.1\DBConnection.csproj.CopyComplete
+C:\Users\Arrayan\source\repos\XifreBackend\Repositories\obj\Debug\netcoreapp3.1\DBConnection.dll
+C:\Users\Arrayan\source\repos\XifreBackend\Repositories\obj\Debug\netcoreapp3.1\DBConnection.pdb
